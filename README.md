@@ -1,0 +1,1 @@
+This is a recipe book project for The Odin Project. This will be my first practice in putting everything I've learned together -- basic HTML and basic usage of Git. I'm hoping to eventually adapt this project for my personal use, since I'm currently in the process of creating a recipe book for myself in order to make mealtime easier!
